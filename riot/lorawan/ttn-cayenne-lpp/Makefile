@@ -1,6 +1,6 @@
 APPLICATION = cayenne
 
-BOARD ?= b-l072z-lrwan1
+BOARD ?= lora-e5-dev
 
 RIOTBASE ?= $(CURDIR)/../../RIOT
 
