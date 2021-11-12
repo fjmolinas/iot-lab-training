@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*Makefile.*": "makefile",
+        "*.mk.*": "makefile",
+        "*makefile*": "makefile",
+        "*.sls": "yaml",
+        "lm75_params.h": "c",
+        "lm75_regs.h": "c",
+        "cpu_conf_stm32_common.h": "c"
+    }
+}
